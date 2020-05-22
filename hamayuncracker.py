@@ -93,8 +93,8 @@ print  """
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mHamayun musa l\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;94mAuthor\033[1;91m: \033[1;91mAcreations
 \033[1;94mHamayun musa\033[1;91m: \033[1;91▒▓██████████████]99.9
-\033[1;94mFacebook\033[1;91m: \033[1;91mAcreations
-\033[1;94mWhatsapp\033[1;91m: \033[1;91m 03319258250
+\033[1;94mFacebook\033[1;91m: \033[1;91mHAMAYUNcreations
+\033[1;94mWhatsapp\033[1;91m: \033[1;91m03319258250
 \033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mHamayun musa l\033[1;95m♡╰──────────•◈•──────────╯♡"""
 jalan('              \033[1;96m....................HAMAYUN MUSA.....................:')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   ")
@@ -104,8 +104,8 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
 print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin Hamayun musa l\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-CorrectUsername = "lovel"
-CorrectPassword = "hamayun"
+CorrectUsername = "lovely"
+CorrectPassword = "hacker"
 
 loop = 'true'
 while (loop == 'true'):
@@ -417,7 +417,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mhamayun musa l\033[1;95m♡──────────•◈•──────────♡"
-	print "  \033[1;93m«---•◈•---Developed By love---•◈•---»" #Dev:Rana_hacker
+	print "  \033[1;93m«---•◈•---Developed By love---•◈•---»" #Dev:hamayun_hacker
 	print '\033[1;91mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
 	print """
@@ -430,7 +430,7 @@ def pilih_super():
 : \033[1;96m .....hamayun  Creations........... \033[1;93m :
 ♡──────────────•◈•──────────────♡.' 
                 whatsapp Num
-               +NI DENA """
+               +923319258250 """
 	
 	raw_input("\n\033[1;92m[\033[1;94mBack\033[1;96m]")
 	menu()
