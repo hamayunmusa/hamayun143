@@ -93,8 +93,8 @@ print  """
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mHamayun musa l\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;94mAuthor\033[1;91m: \033[1;91mAcreations
 \033[1;94mHamayun musa\033[1;91m: \033[1;91▒▓██████████████]99.9
-\033[1;94mFacebook\033[1;91m: \033[1;91mHAMAYUNcreations
-\033[1;94mWhatsapp\033[1;91m: \033[1;91m03319258250
+\033[1;94mFacebook\033[1;91m: \033[1;91mHAMAYUN CREATIONS .  EVERYTHING IS POSSIBLE TO ME
+\033[1;94mWhatsapp\033[1;91m: \033[1;91m03319258250       .  WE STAND WITH PALESTINE
 \033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mHamayun musa l\033[1;95m♡╰──────────•◈•──────────╯♡"""
 jalan('              \033[1;96m....................HAMAYUN MUSA.....................:')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   ")
@@ -104,8 +104,8 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
 print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin Hamayun musa l\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-CorrectUsername = "lovely"
-CorrectPassword = "hacker"
+CorrectUsername = "just"
+CorrectPassword = "enjoy"
 
 loop = 'true'
 while (loop == 'true'):
@@ -295,9 +295,9 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;91mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m«-----\x1b[1;93m♡To Stop Process Press CTRL+Z♡\033[1;94m----»"
-	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mHamayun musa l\033[1;95m♡─────────•◈•─────────♡"
+	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mHamayun khan l\033[1;95m♡─────────•◈•─────────♡"
 	jalan(' \033[1;93m ........Cloning Start plzzz Wait.......... ')
-	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mHamayun musa l\033[1;95m♡─────────•◈•─────────♡"
+	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mHamayun khan l\033[1;95m♡─────────•◈•─────────♡"
 	
 			
 	def main(arg):
@@ -417,7 +417,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mhamayun musa l\033[1;95m♡──────────•◈•──────────♡"
-	print "  \033[1;93m«---•◈•---Developed By love---•◈•---»" #Dev:hamayun_hacker
+	print "  \033[1;93m«---•◈•---Developed By hamayun---•◈•---»" #Dev:hamayun_hacker
 	print '\033[1;91mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
 	print """
@@ -425,7 +425,7 @@ def pilih_super():
              ...........███ ]▄▄▄▄▄▃
              ..▂▄▅█████▅▄▃▂
              [███████████████]
-             ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
+             ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤ we stand with palestine 
 ♡──────────────•◈•──────────────♡.
 : \033[1;96m .....hamayun  Creations........... \033[1;93m :
 ♡──────────────•◈•──────────────♡.' 
